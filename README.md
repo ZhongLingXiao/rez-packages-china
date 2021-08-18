@@ -1,2 +1,2 @@
 # rez-packages-china
-faster download url for china user
+faster download using gitee url
