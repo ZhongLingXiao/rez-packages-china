@@ -21,7 +21,7 @@ requires = [
     
     # CY2021 standard
     "boost-1.73",
-    "ocio-2.0.1"
+    "ocio-2.0.1",
     "openexr-2.4.3",
     "python-3.7",
     "tbb-2020.2",
