@@ -28,7 +28,7 @@ if platform.system() == "Darwin":
 elif platform.system() == "Linux":
     variants.append(["platform-linux", "arch-x86_64"])
 
-uuid = "libs.openjpeg"
+uuid = "libs.fmt"
 
 
 def commands():
